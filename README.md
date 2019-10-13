@@ -15,7 +15,7 @@ https://apex.oracle.com/pls/apex/f?p=15676:10
 
 ## How to use
 
-1.Set your Interactive Report pagination to **"Row Ranges X to Y of Z"**.
-2.a Create a Dynamic Action, on **"page load"**.
-2.b Add a true action, and set the action attribute to **"Add pagination to IR"**.
-3.Enjoy it...
+1.Set your Interactive Report pagination to **"Row Ranges X to Y of Z"**.  
+2.a Create a Dynamic Action, on **"page load"**.  
+2.b Add a true action, and set the action attribute to **"Add pagination to IR"**.  
+3.Enjoy it...  
