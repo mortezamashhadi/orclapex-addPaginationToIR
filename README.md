@@ -3,7 +3,7 @@ A Dynamic Action  plug-in for Oracle APEX.
 This Plug-in adds a pagination with "First page,Last Page,Previous Page,Next Page"  links to Interactive Reports.
 This  plug-in is inspired by a JavaScript code of  Foad Olyaee https://www.linkedin.com/in/foad-ao/ .
 
-![](https://raw.githubusercontent.com/mortezamashhadi/orclapex-kpi-gauge/master/preview.gif)
+![](https://raw.githubusercontent.com/mortezamashhadi/orclapex-addPaginationToIR/master/preview.gif)
 
 ## Demo
 https://apex.oracle.com/pls/apex/f?p=15676:10
